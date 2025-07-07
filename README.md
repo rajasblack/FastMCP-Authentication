@@ -15,4 +15,4 @@ You can streamline to save/read the generated token to/from a file. However, for
 
 To productionize, you can integrate it with OAuth2.1 style authentication or rely on external providers for third party authentication like Google, Meta, etc,. For enterprises, you can integrate it with the LDAP - directory based authentication which can not only based user information but also respective scopes for the users or groups. 
 
-==For any questions or queries, feel free to reach out.==
+==For any questions or queries, feel free to reach out==.
